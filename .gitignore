@@ -1,0 +1,15 @@
+node_modules/
+bin/
+obj/
+.env
+test-server/*.jar
+test-server/logs/
+test-server/resource-bot-test/
+test-server/world/
+test-server/world_nether/
+test-server/world_the_end/
+test-server/banned-ips.json
+test-server/banned-players.json
+test-server/ops.json
+test-server/usercache.json
+test-server/whitelist.json

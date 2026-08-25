@@ -1,0 +1,2 @@
+# Set eula=true only after reading and accepting the Minecraft EULA.
+eula=false

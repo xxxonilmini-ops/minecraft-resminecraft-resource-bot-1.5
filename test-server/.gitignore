@@ -1,0 +1,11 @@
+*.jar
+logs/
+resource-bot-test/
+world/
+world_nether/
+world_the_end/
+banned-ips.json
+banned-players.json
+ops.json
+usercache.json
+whitelist.json
